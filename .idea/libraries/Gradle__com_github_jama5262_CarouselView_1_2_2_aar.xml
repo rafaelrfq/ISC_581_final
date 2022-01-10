@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.jama5262:CarouselView:1.2.2@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/dc6117261fcd7fedfcc3ae0129da36e4/CarouselView-1.2.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/dc6117261fcd7fedfcc3ae0129da36e4/CarouselView-1.2.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/dc6117261fcd7fedfcc3ae0129da36e4/CarouselView-1.2.2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.jama5262/CarouselView/1.2.2/8673a5251ef29da253b5529a8d85d4bd12379ec6/CarouselView-1.2.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

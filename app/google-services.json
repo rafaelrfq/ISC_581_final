@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1053150183600",
+    "project_id": "proyectofinal-csti-1780-4280",
+    "storage_bucket": "proyectofinal-csti-1780-4280.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053150183600:android:94ae4089f34ff77dafbb75",
+        "android_client_info": {
+          "package_name": "com.pucmm.csti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1053150183600-le26rf6q6d0n3oc6ootmdtm9tuuj1q9r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZ45SGdYswJvZ0J8Zm3pJEZ3qRxDa_I_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1053150183600-le26rf6q6d0n3oc6ootmdtm9tuuj1q9r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
